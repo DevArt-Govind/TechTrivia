@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "question": "What is JavaScript?",
+      "options": [
+        "A programming language",
+        "A type of coffee",
+        "A software tool",
+        "A markup language"
+      ],
+      "correctAnswer": "A programming language"
+    },
+    {
+      "question": "Which operator is used to assign a value to a variable in JavaScript?",
+      "options": [
+        "=",
+        "*",
+        "==",
+        "-"
+      ],
+      "correctAnswer": "="
+    },
+    {
+      "question": "How do you declare a JavaScript variable?",
+      "options": [
+        "var carName;",
+        "variable carName;",
+        "v carName;",
+        "int carName;"
+      ],
+      "correctAnswer": "var carName;"
+    },
+    {
+      "question": "How do you write 'Hello World' in an alert box?",
+      "options": [
+        "alertBox('Hello World');",
+        "msg('Hello World');",
+        "alert('Hello World');",
+        "msgBox('Hello World');"
+      ],
+      "correctAnswer": "alert('Hello World');"
+    },
+    {
+      "question": "How do you create a function in JavaScript?",
+      "options": [
+        "function myFunction()",
+        "function = myFunction()",
+        "function:myFunction()",
+        "create function myFunction()"
+      ],
+      "correctAnswer": "function myFunction()"
+    },
+    {
+      "question": "How do you call a function named 'myFunction'?",
+      "options": [
+        "call myFunction()",
+        "myFunction()",
+        "run myFunction()",
+        "invoke myFunction()"
+      ],
+      "correctAnswer": "myFunction()"
+    },
+    {
+      "question": "How do you write an IF statement in JavaScript?",
+      "options": [
+        "if (i == 5)",
+        "if i == 5 then",
+        "if i = 5 then",
+        "if i = 5"
+      ],
+      "correctAnswer": "if (i == 5)"
+    },
+    {
+      "question": "How do you write an IF statement for executing some code if 'i' is NOT equal to 5?",
+      "options": [
+        "if i <> 5",
+        "if (i != 5)",
+        "if (i !== 5)",
+        "if (i not 5)"
+      ],
+      "correctAnswer": "if (i != 5)"
+    },
+    {
+      "question": "How does a WHILE loop start?",
+      "options": [
+        "while (i <= 10)",
+        "while i = 1 to 10",
+        "while (i <= 10; i++)",
+        "while i < 10:"
+      ],
+      "correctAnswer": "while (i <= 10)"
+    },
+    {
+      "question": "How do you create a FOR loop?",
+      "options": [
+        "for (i <= 5; i++)",
+        "for (i = 0; i <= 5)",
+        "for (i = 0; i <= 5; i++)",
+        "for i = 1 to 5"
+      ],
+      "correctAnswer": "for (i = 0; i <= 5; i++)"
+    },
+    {
+      "question": "How do you comment in JavaScript?",
+      "options": [
+        "//This is a comment",
+        "'This is a comment",
+        "<!--This is a comment-->",
+        "/*This is a comment*/"
+      ],
+      "correctAnswer": "//This is a comment"
+    },
+    {
+      "question": "Which event occurs when the user clicks on an HTML element?",
+      "options": [
+        "onclick",
+        "onmouseclick",
+        "onmouseover",
+        "onchange"
+      ],
+      "correctAnswer": "onclick"
+    },
+    {
+      "question": "How do you find the number with the highest value of x and y?",
+      "options": [
+        "Math.max(x, y)",
+        "Math.ceil(x, y)",
+        "Math.round(x, y)",
+        "Math.floor(x, y)"
+      ],
+      "correctAnswer": "Math.max(x, y)"
+    },
+    {
+      "question": "What is the correct JavaScript syntax for opening a new window called 'myWindow'?",
+      "options": [
+        "myWindow = window.new('url')",
+        "myWindow = window.open('url')",
+        "myWindow = new Window('url')",
+        "myWindow = open('url')"
+      ],
+      "correctAnswer": "myWindow = window.open('url')"
+    },
+    {
+      "question": "Which function is used to output data in JavaScript?",
+      "options": [
+        "echo()",
+        "print()",
+        "console.log()",
+        "document.write()"
+      ],
+      "correctAnswer": "console.log()"
+    },
+    {
+      "question": "What is the correct way to write a JavaScript array?",
+      "options": [
+        "var colors = ['red', 'green', 'blue']",
+        "var colors = 'red', 'green', 'blue'",
+        "var colors = (1:'red', 2:'green', 3:'blue')",
+        "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')"
+      ],
+      "correctAnswer": "var colors = ['red', 'green', 'blue']"
+    },
+    {
+      "question": "How do you round the number 7.25, to the nearest integer?",
+      "options": [
+        "Math.rnd(7.25)",
+        "Math.round(7.25)",
+        "round(7.25)",
+        "rnd(7.25)"
+      ],
+      "correctAnswer": "Math.round(7.25)"
+    },
+    {
+      "question": "What is the correct JavaScript syntax for opening a new tab called 'myTab'?",
+      "options": [
+        "myTab = window.open('url')",
+        "myTab = window.new('url')",
+        "myTab = new Tab('url')",
+        "myTab = open('url')"
+      ],
+      "correctAnswer": "myTab = window.open('url')"
+    },
+    {
+      "question": "How do you find the square root of a number in JavaScript?",
+      "options": [
+        "Math.sqrt(x)",
+        "Math.squareRoot(x)",
+        "x.sqrt()",
+        "x.squareRoot()"
+      ],
+      "correctAnswer": "Math.sqrt(x)"
+    },
+    {
+      "question": "Which operator is used to assign a value to a variable?",
+      "options": [
+        "=",
+        "-",
+        "*",
+        "=="
+      ],
+      "correctAnswer": "="
+    }
+  ]
+}

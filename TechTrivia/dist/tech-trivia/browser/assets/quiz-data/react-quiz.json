@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "question": "What is React.js?",
+      "options": [
+        "A JavaScript library for building user interfaces",
+        "A server-side scripting language",
+        "A database management system",
+        "A programming language"
+      ],
+      "correctAnswer": "A JavaScript library for building user interfaces"
+    },
+    {
+      "question": "What is JSX?",
+      "options": [
+        "JavaScript XML",
+        "JavaScript Extension",
+        "Java Syntax Extension",
+        "JavaScript XML Syntax"
+      ],
+      "correctAnswer": "JavaScript XML"
+    },
+    {
+      "question": "Which command is used to create a new React app?",
+      "options": [
+        "create-react-app",
+        "new-react-app",
+        "generate-react-app",
+        "react-create-app"
+      ],
+      "correctAnswer": "create-react-app"
+    },
+    {
+      "question": "What is the entry point for all React applications?",
+      "options": [
+        "index.js",
+        "main.js",
+        "app.js",
+        "react.js"
+      ],
+      "correctAnswer": "index.js"
+    },
+    {
+      "question": "What function is used to render a React component into the DOM?",
+      "options": [
+        "ReactDOM.render()",
+        "React.render()",
+        "renderDOM()",
+        "ReactDOM.component()"
+      ],
+      "correctAnswer": "ReactDOM.render()"
+    },
+    {
+      "question": "Which lifecycle method is called immediately after a component is mounted?",
+      "options": [
+        "componentWillMount()",
+        "componentDidMount()",
+        "componentWillUnmount()",
+        "componentDidUnmount()"
+      ],
+      "correctAnswer": "componentDidMount()"
+    },
+    {
+      "question": "What is the purpose of setState() in React?",
+      "options": [
+        "To update the component's state",
+        "To update the component's props",
+        "To force re-rendering of the component",
+        "To define the component's initial state"
+      ],
+      "correctAnswer": "To update the component's state"
+    },
+    {
+      "question": "What is a React fragment?",
+      "options": [
+        "A shorthand syntax for defining components",
+        "A lightweight syntax for declaring multiple elements without a wrapper",
+        "A way to define reusable components",
+        "A type of React component"
+      ],
+      "correctAnswer": "A lightweight syntax for declaring multiple elements without a wrapper"
+    },
+    {
+      "question": "Which command is used to start the development server in a React app?",
+      "options": [
+        "npm start",
+        "npm run serve",
+        "react start",
+        "start-react"
+      ],
+      "correctAnswer": "npm start"
+    },
+    {
+      "question": "What is the purpose of props in React?",
+      "options": [
+        "To pass data from parent to child components",
+        "To manage the component's state",
+        "To define the component's initial state",
+        "To handle user interactions"
+      ],
+      "correctAnswer": "To pass data from parent to child components"
+    },
+    {
+      "question": "Which method is used to handle events in React?",
+      "options": [
+        "onClick",
+        "handleEvent",
+        "onEvent",
+        "eventHandler"
+      ],
+      "correctAnswer": "onClick"
+    },
+    {
+      "question": "What is the virtual DOM in React?",
+      "options": [
+        "A lightweight version of the actual DOM",
+        "A representation of the DOM in memory",
+        "A component's internal state",
+        "A way to handle asynchronous operations"
+      ],
+      "correctAnswer": "A representation of the DOM in memory"
+    },
+    {
+      "question": "Which hook is used to add state to a functional component?",
+      "options": [
+        "useState()",
+        "useEffect()",
+        "useContext()",
+        "useReducer()"
+      ],
+      "correctAnswer": "useState()"
+    },
+    {
+      "question": "What is the purpose of useEffect() hook in React?",
+      "options": [
+        "To perform side effects in functional components",
+        "To manage component's state",
+        "To handle user interactions",
+        "To render components"
+      ],
+      "correctAnswer": "To perform side effects in functional components"
+    },
+    {
+      "question": "What is the purpose of useRef() hook in React?",
+      "options": [
+        "To create a reference to a DOM element",
+        "To fetch data from an API",
+        "To define a reusable component",
+        "To update the component's state"
+      ],
+      "correctAnswer": "To create a reference to a DOM element"
+    },
+    {
+      "question": "Which hook is used to fetch data in a functional component?",
+      "options": [
+        "useEffect()",
+        "useState()",
+        "useFetch()",
+        "fetchData()"
+      ],
+      "correctAnswer": "useEffect()"
+    },
+    {
+      "question": "What is the purpose of useContext() hook in React?",
+      "options": [
+        "To access context values in a functional component",
+        "To manage component's state",
+        "To handle user interactions",
+        "To render components"
+      ],
+      "correctAnswer": "To access context values in a functional component"
+    },
+    {
+      "question": "What is the purpose of useMemo() hook in React?",
+      "options": [
+        "To memoize expensive calculations",
+        "To manage component's state",
+        "To handle user interactions",
+        "To render components"
+      ],
+      "correctAnswer": "To memoize expensive calculations"
+    },
+    {
+      "question": "What is the purpose of useCallback() hook in React?",
+      "options": [
+        "To memoize event handlers",
+        "To manage component's state",
+        "To handle user interactions",
+        "To render components"
+      ],
+      "correctAnswer": "To memoize event handlers"
+    },
+    {
+      "question": "What is the purpose of useReducer() hook in React?",
+      "options": [
+        "To manage complex state logic",
+        "To manage component's state",
+        "To handle user interactions",
+        "To render components"
+      ],
+      "correctAnswer": "To manage complex state logic"
+    }
+  ]
+}

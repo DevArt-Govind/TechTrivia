@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "question": "What does HTML stand for?",
+      "options": [
+        "Hyper Text Markup Language",
+        "Hyperlinks and Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyperlink Text Markup Language"
+      ],
+      "correctAnswer": "Hyper Text Markup Language"
+    },
+    {
+      "question": "Which HTML tag is used to define an unordered list?",
+      "options": [
+        "<ul>",
+        "<ol>",
+        "<li>",
+        "<list>"
+      ],
+      "correctAnswer": "<ul>"
+    },
+    {
+      "question": "Which HTML tag is used to define a hyperlink?",
+      "options": [
+        "<a>",
+        "<link>",
+        "<href>",
+        "<hyperlink>"
+      ],
+      "correctAnswer": "<a>"
+    },
+    {
+      "question": "What is the correct HTML for inserting an image?",
+      "options": [
+        "<img src='image.gif' alt='MyImage'>",
+        "<image src='image.gif' alt='MyImage'>",
+        "<img href='image.gif' alt='MyImage'>",
+        "<image href='image.gif' alt='MyImage'>"
+      ],
+      "correctAnswer": "<img src='image.gif' alt='MyImage'>"
+    },
+    {
+      "question": "Which HTML tag is used to define a table?",
+      "options": [
+        "<table>",
+        "<tr>",
+        "<td>",
+        "<th>"
+      ],
+      "correctAnswer": "<table>"
+    },
+    {
+      "question": "What does the <canvas> tag do?",
+      "options": [
+        "Defines a client-side image map",
+        "Defines a container for an external application",
+        "Draws graphics on the fly via JavaScript",
+        "Defines a container for metadata (data about data)"
+      ],
+      "correctAnswer": "Draws graphics on the fly via JavaScript"
+    },
+    {
+      "question": "Which HTML attribute is used to define inline styles?",
+      "options": [
+        "class",
+        "styles",
+        "font",
+        "style"
+      ],
+      "correctAnswer": "style"
+    },
+    {
+      "question": "In HTML, which attribute is used to specify that an input field must be filled out?",
+      "options": [
+        "required",
+        "validate",
+        "placeholder",
+        "mandatory"
+      ],
+      "correctAnswer": "required"
+    },
+    {
+      "question": "Which HTML tag is used to define a paragraph?",
+      "options": [
+        "<p>",
+        "<paragraph>",
+        "<para>",
+        "<pr>"
+      ],
+      "correctAnswer": "<p>"
+    },
+    {
+      "question": "What is the correct HTML for creating a hyperlink?",
+      "options": [
+        "<a href='http://www.example.com'>Example</a>",
+        "<a url='http://www.example.com'>Example</a>",
+        "<link>http://www.example.com</link>",
+        "<href>http://www.example.com</href>"
+      ],
+      "correctAnswer": "<a href='http://www.example.com'>Example</a>"
+    },
+    {
+      "question": "Which HTML tag is used to define the document header?",
+      "options": [
+        "<header>",
+        "<head>",
+        "<headings>",
+        "<document>"
+      ],
+      "correctAnswer": "<head>"
+    },
+    {
+      "question": "What is the correct HTML for making a checkbox?",
+      "options": [
+        "<input type='checkbox'>",
+        "<checkbox>",
+        "<check>",
+        "<input type='check'>"
+      ],
+      "correctAnswer": "<input type='checkbox'>"
+    },
+    {
+      "question": "What is the correct HTML for making a drop-down list?",
+      "options": [
+        "<input type='list'>",
+        "<list>",
+        "<dropdown>",
+        "<select>"
+      ],
+      "correctAnswer": "<select>"
+    },
+    {
+      "question": "What is the correct HTML for making a text input field?",
+      "options": [
+        "<textfield>",
+        "<input type='text'>",
+        "<textinput>",
+        "<input type='textfield'>"
+      ],
+      "correctAnswer": "<input type='text'>"
+    },
+    {
+      "question": "What does the <aside> tag do?",
+      "options": [
+        "Defines content aside from the content (like a sidebar)",
+        "Defines a container for navigation links",
+        "Defines a section in a document",
+        "Defines a list of navigation links"
+      ],
+      "correctAnswer": "Defines content aside from the content (like a sidebar)"
+    },
+    {
+      "question": "What is the correct HTML for inserting a line break?",
+      "options": [
+        "<br>",
+        "<break>",
+        "<lb>",
+        "<linebreak>"
+      ],
+      "correctAnswer": "<br>"
+    },
+    {
+      "question": "What is the correct HTML for creating a hyperlink to an email address?",
+      "options": [
+        "<a href='mailto:email@example.com'>Email me</a>",
+        "<a>email@example.com</a>",
+        "<mail>email@example.com</mail>",
+        "<email>email@example.com</email>"
+      ],
+      "correctAnswer": "<a href='mailto:email@example.com'>Email me</a>"
+    },
+    {
+      "question": "What does the HTML <nav> element represent?",
+      "options": [
+        "A container for navigation links",
+        "A container for metadata (data about data)",
+        "A section in a document",
+        "Defines content aside from the content (like a sidebar)"
+      ],
+      "correctAnswer": "A container for navigation links"
+    },
+    {
+      "question": "Which attribute is used to specify that an input field must be filled out in HTML5?",
+      "options": [
+        "required",
+        "validate",
+        "placeholder",
+        "mandatory"
+      ],
+      "correctAnswer": "required"
+    },
+    {
+      "question": "What is the correct HTML for inserting an image?",
+      "options": [
+        "<img src='image.gif' alt='MyImage'>",
+        "<image src='image.gif' alt='MyImage'>",
+        "<img href='image.gif' alt='MyImage'>",
+        "<image href='image.gif' alt='MyImage'>"
+      ],
+      "correctAnswer": "<img src='image.gif' alt='MyImage'>"
+    }
+  ]
+}
