@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "question": "What is the main purpose of Figma?",
+      "options": [
+        "Designing user interfaces",
+        "Creating animations",
+        "Editing videos",
+        "Writing code"
+      ],
+      "correctAnswer": "Designing user interfaces"
+    },
+    {
+      "question": "Which feature allows multiple users to collaborate on a Figma design in real-time?",
+      "options": [
+        "Team Libraries",
+        "Version History",
+        "Comments",
+        "Multiplayer"
+      ],
+      "correctAnswer": "Multiplayer"
+    },
+    {
+      "question": "What is the purpose of Auto Layout in Figma?",
+      "options": [
+        "To automatically adjust the layout of components based on their content",
+        "To apply automatic animations to components",
+        "To generate code from designs",
+        "To create responsive designs"
+      ],
+      "correctAnswer": "To automatically adjust the layout of components based on their content"
+    },
+    {
+      "question": "Which tool is used to create interactive prototypes in Figma?",
+      "options": [
+        "Prototyping",
+        "Interactive Components",
+        "Smart Animate",
+        "Auto Layout"
+      ],
+      "correctAnswer": "Prototyping"
+    },
+    {
+      "question": "What is the purpose of Components in Figma?",
+      "options": [
+        "To create reusable design elements",
+        "To export designs to other formats",
+        "To collaborate with team members",
+        "To manage design versions"
+      ],
+      "correctAnswer": "To create reusable design elements"
+    },
+    {
+      "question": "What is the benefit of using Styles in Figma?",
+      "options": [
+        "To maintain consistency in design elements",
+        "To generate code automatically",
+        "To organize layers in the design",
+        "To apply animations to components"
+      ],
+      "correctAnswer": "To maintain consistency in design elements"
+    },
+    {
+      "question": "Which feature in Figma allows you to create a library of reusable design assets?",
+      "options": [
+        "Team Libraries",
+        "Version History",
+        "Auto Layout",
+        "Prototyping"
+      ],
+      "correctAnswer": "Team Libraries"
+    },
+    {
+      "question": "What is the purpose of Frames in Figma?",
+      "options": [
+        "To define the canvas area for designs",
+        "To add visual effects to components",
+        "To create animations",
+        "To export designs"
+      ],
+      "correctAnswer": "To define the canvas area for designs"
+    },
+    {
+      "question": "Which feature in Figma allows you to create design systems?",
+      "options": [
+        "Team Libraries",
+        "Prototyping",
+        "Auto Layout",
+        "Styles"
+      ],
+      "correctAnswer": "Team Libraries"
+    },
+    {
+      "question": "What is the purpose of Constraints in Figma?",
+      "options": [
+        "To define how components behave when resized",
+        "To add animations to components",
+        "To export designs to other formats",
+        "To manage team collaboration"
+      ],
+      "correctAnswer": "To define how components behave when resized"
+    },
+    {
+      "question": "Which tool in Figma allows you to apply design changes across multiple instances of a component?",
+      "options": [
+        "Instance Swap",
+        "Auto Layout",
+        "Interactive Components",
+        "Styles"
+      ],
+      "correctAnswer": "Instance Swap"
+    },
+    {
+      "question": "What is the purpose of Plugins in Figma?",
+      "options": [
+        "To extend the functionality of Figma",
+        "To create interactive prototypes",
+        "To collaborate with team members",
+        "To manage design versions"
+      ],
+      "correctAnswer": "To extend the functionality of Figma"
+    },
+    {
+      "question": "Which feature in Figma allows you to view and restore previous versions of a design?",
+      "options": [
+        "Version History",
+        "Team Libraries",
+        "Auto Layout",
+        "Prototyping"
+      ],
+      "correctAnswer": "Version History"
+    },
+    {
+      "question": "What is the benefit of using Grids in Figma?",
+      "options": [
+        "To align and organize design elements",
+        "To create animations",
+        "To export designs to other formats",
+        "To manage team collaboration"
+      ],
+      "correctAnswer": "To align and organize design elements"
+    },
+    {
+      "question": "Which feature in Figma allows you to leave comments on specific parts of a design?",
+      "options": [
+        "Comments",
+        "Team Libraries",
+        "Auto Layout",
+        "Prototyping"
+      ],
+      "correctAnswer": "Comments"
+    },
+    {
+      "question": "What is the purpose of Constraints in Figma?",
+      "options": [
+        "To define how components behave when resized",
+        "To add animations to components",
+        "To export designs to other formats",
+        "To manage team collaboration"
+      ],
+      "correctAnswer": "To define how components behave when resized"
+    },
+    {
+      "question": "Which feature in Figma allows you to create and apply animations to components?",
+      "options": [
+        "Smart Animate",
+        "Auto Layout",
+        "Instance Swap",
+        "Styles"
+      ],
+      "correctAnswer": "Smart Animate"
+    },
+    {
+      "question": "What is the purpose of Vector Networks in Figma?",
+      "options": [
+        "To create complex shapes with multiple editable paths",
+        "To manage team collaboration",
+        "To apply visual effects to designs",
+        "To export designs to other formats"
+      ],
+      "correctAnswer": "To create complex shapes with multiple editable paths"
+    },
+    {
+      "question": "Which feature in Figma allows you to create interactive components without code?",
+      "options": [
+        "Interactive Components",
+        "Auto Layout",
+        "Styles",
+        "Smart Animate"
+      ],
+      "correctAnswer": "Interactive Components"
+    },
+    {
+      "question": "What is the purpose of Variants in Figma?",
+      "options": [
+        "To create different versions of a component",
+        "To add animations to components",
+        "To export designs to other formats",
+        "To manage team collaboration"
+      ],
+      "correctAnswer": "To create different versions of a component"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+$primery-font:"Chelsea Market", system-ui;
+
+.start-section{
+  background-image: radial-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5)), url(../../../assets/images/background-particle.svg);
+  width: 100%;
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+}
+
+.start-page-content{
+  .center-content{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    p{
+      text-transform: capitalize;
+      font-size: 1.5rem;
+    }
+    h1{
+      font-size: 5rem;
+    }
+  }
+}
+.button-89 {
+  padding: 1rem 1.5rem ;
+  color: #fff;
+  --_p: .45em;
+  background:
+    conic-gradient(from 90deg at 3px 3px,#0000 90deg,#fff 0)
+    var(--_p) var(--_p)/calc(100% - 3px - 2*var(--_p)) calc(100% - 3px - 2*var(--_p));
+  transition: .3s linear, color 0s, background-color 0s;
+  outline: 3px solid #0000;
+  outline-offset: .6em;
+  font-size: 1.2rem;
+
+  border: 0;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-89:hover,
+.button-89:focus-visible{
+  --_p: 0px;
+  outline-color: #fff;
+  outline-offset: .05em;
+}
+
+.button-89:active {
+  background: #fff;
+  color: #222;
+}
+
+@media (max-width:425px) {
+  .center-content{
+    width: 100%;
+    h1{
+      font-size: 3.5rem !important;
+    }
+    .button-89{
+      font-size: 0.9rem;
+    }
+  }
+}

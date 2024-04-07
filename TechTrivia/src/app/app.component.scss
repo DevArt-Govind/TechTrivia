@@ -1,0 +1,14 @@
+$primery-font:"Chelsea Market", system-ui;
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+}
+.main-content-wrapper{
+  font-family: $primery-font;
+  color: #fff;
+  background-image: url(../assets/images/chalkboard.jpg);
+  background-size: cover;
+  background-position: center;
+}
+

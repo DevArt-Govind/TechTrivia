@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "question": "What does CSS stand for?",
+      "options": [
+        "Cascading Style Sheets",
+        "Creative Style Sheets",
+        "Computer Style Sheets",
+        "Colorful Style Sheets"
+      ],
+      "correctAnswer": "Cascading Style Sheets"
+    },
+    {
+      "question": "Which CSS property is used to change the text color of an element?",
+      "options": [
+        "color",
+        "text-color",
+        "font-color",
+        "text-style"
+      ],
+      "correctAnswer": "color"
+    },
+    {
+      "question": "Which CSS property is used to set the background color of an element?",
+      "options": [
+        "background-color",
+        "color",
+        "bgcolor",
+        "background"
+      ],
+      "correctAnswer": "background-color"
+    },
+    {
+      "question": "Which CSS property is used to set the width of an element?",
+      "options": [
+        "width",
+        "size",
+        "height",
+        "style"
+      ],
+      "correctAnswer": "width"
+    },
+    {
+      "question": "Which CSS property is used to set the font size of an element?",
+      "options": [
+        "font-size",
+        "text-size",
+        "size",
+        "font-style"
+      ],
+      "correctAnswer": "font-size"
+    },
+    {
+      "question": "Which CSS property is used to make text bold?",
+      "options": [
+        "font-weight",
+        "bold",
+        "text-weight",
+        "weight"
+      ],
+      "correctAnswer": "font-weight"
+    },
+    {
+      "question": "Which CSS property is used to underline text?",
+      "options": [
+        "text-decoration",
+        "underline",
+        "decoration",
+        "line"
+      ],
+      "correctAnswer": "text-decoration"
+    },
+    {
+      "question": "Which CSS property is used to specify the space between the lines of text?",
+      "options": [
+        "line-height",
+        "spacing",
+        "line-spacing",
+        "text-spacing"
+      ],
+      "correctAnswer": "line-height"
+    },
+    {
+      "question": "Which CSS property is used to align text?",
+      "options": [
+        "text-align",
+        "align",
+        "alignment",
+        "position"
+      ],
+      "correctAnswer": "text-align"
+    },
+    {
+      "question": "Which CSS property is used to specify the type of list-item marker?",
+      "options": [
+        "list-style-type",
+        "marker-type",
+        "list-marker",
+        "item-type"
+      ],
+      "correctAnswer": "list-style-type"
+    },
+    {
+      "question": "Which CSS property is used to add shadows around an element's border?",
+      "options": [
+        "box-shadow",
+        "border-shadow",
+        "shadow",
+        "border-effect"
+      ],
+      "correctAnswer": "box-shadow"
+    },
+    {
+      "question": "Which CSS property is used to create rounded corners?",
+      "options": [
+        "border-radius",
+        "rounded-corners",
+        "corner-style",
+        "border-style"
+      ],
+      "correctAnswer": "border-radius"
+    },
+    {
+      "question": "Which CSS property is used to set the opacity of an element?",
+      "options": [
+        "opacity",
+        "transparency",
+        "alpha",
+        "visibility"
+      ],
+      "correctAnswer": "opacity"
+    },
+    {
+      "question": "Which CSS property is used to add space between the element's border and content?",
+      "options": [
+        "padding",
+        "margin",
+        "spacing",
+        "border-spacing"
+      ],
+      "correctAnswer": "padding"
+    },
+    {
+      "question": "Which CSS property is used to make the text in all caps?",
+      "options": [
+        "text-transform",
+        "uppercase",
+        "capitalization",
+        "transform"
+      ],
+      "correctAnswer": "text-transform"
+    },
+    {
+      "question": "Which CSS property is used to change the font of an element?",
+      "options": [
+        "font-family",
+        "typeface",
+        "font",
+        "family"
+      ],
+      "correctAnswer": "font-family"
+    },
+    {
+      "question": "Which CSS property is used to set the color of the text shadow?",
+      "options": [
+        "text-shadow-color",
+        "shadow-color",
+        "color",
+        "text-color"
+      ],
+      "correctAnswer": "color"
+    },
+    {
+      "question": "Which CSS property is used to make an element float to the right or left?",
+      "options": [
+        "float",
+        "position",
+        "align",
+        "align-self"
+      ],
+      "correctAnswer": "float"
+    },
+    {
+      "question": "Which CSS property is used to add a background image to an element?",
+      "options": [
+        "background-image",
+        "image",
+        "background",
+        "image-url"
+      ],
+      "correctAnswer": "background-image"
+    },
+    {
+      "question": "Which CSS property is used to control the order of elements positioned using the flexbox model?",
+      "options": [
+        "order",
+        "flex-order",
+        "position",
+        "flex-position"
+      ],
+      "correctAnswer": "order"
+    }
+  ]
+}

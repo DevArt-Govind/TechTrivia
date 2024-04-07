@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "question": "What does CLI stand for in Angular?",
+      "options": [
+        "Command Line Interface",
+        "Common Language Infrastructure",
+        "Command Language Interface",
+        "Continuous Learning Integration"
+      ],
+      "correctAnswer": "Command Line Interface"
+    },
+    {
+      "question": "Which decorator is used to define a component in Angular?",
+      "options": [
+        "@Component",
+        "@Directive",
+        "@Module",
+        "@Injectable"
+      ],
+      "correctAnswer": "@Component"
+    },
+    {
+      "question": "Which module is used for handling HTTP requests in Angular?",
+      "options": [
+        "@angular/core",
+        "@angular/forms",
+        "@angular/router",
+        "@angular/common/http"
+      ],
+      "correctAnswer": "@angular/common/http"
+    },
+    {
+      "question": "What is the purpose of the NgModule decorator in Angular?",
+      "options": [
+        "Defines a module",
+        "Defines a component",
+        "Defines a service",
+        "Defines a directive"
+      ],
+      "correctAnswer": "Defines a module"
+    },
+    {
+      "question": "What is the purpose of the EventEmitter class in Angular?",
+      "options": [
+        "To emit DOM events",
+        "To emit custom events",
+        "To emit HTTP events",
+        "To emit form events"
+      ],
+      "correctAnswer": "To emit custom events"
+    },
+    {
+      "question": "Which directive is used to bind a property to an input field in Angular?",
+      "options": [
+        "ng-bind",
+        "[value]",
+        "[ngModel]",
+        "(ngModel)"
+      ],
+      "correctAnswer": "[ngModel]"
+    },
+    {
+      "question": "What does RxJS stand for in Angular?",
+      "options": [
+        "Reactive Extensions for JavaScript",
+        "Reactive Extensions for JSON",
+        "Reactive Extensions for XML",
+        "Reactive Extensions for Angular"
+      ],
+      "correctAnswer": "Reactive Extensions for JavaScript"
+    },
+    {
+      "question": "What is the purpose of the async pipe in Angular?",
+      "options": [
+        "To handle asynchronous operations",
+        "To create observable sequences",
+        "To unsubscribe from observables",
+        "To handle routing"
+      ],
+      "correctAnswer": "To handle asynchronous operations"
+    },
+    {
+      "question": "What is the Angular CLI command to generate a new component?",
+      "options": [
+        "ng create",
+        "ng build",
+        "ng generate",
+        "ng serve"
+      ],
+      "correctAnswer": "ng generate"
+    },
+    {
+      "question": "What is the Angular template syntax for one-way data binding?",
+      "options": [
+        "{{ }}",
+        "[ ]",
+        "( )",
+        "*ngFor"
+      ],
+      "correctAnswer": "{{ }}"
+    },
+    {
+      "question": "What is the purpose of the ActivatedRoute service in Angular?",
+      "options": [
+        "To provide access to the current route's parameters",
+        "To handle HTTP requests",
+        "To manage form controls",
+        "To create animations"
+      ],
+      "correctAnswer": "To provide access to the current route's parameters"
+    },
+    {
+      "question": "What is the role of NgModule in Angular?",
+      "options": [
+        "To define the structure of a component",
+        "To import other modules",
+        "To provide dependency injection",
+        "To define a module's compilation context"
+      ],
+      "correctAnswer": "To define a module's compilation context"
+    },
+    {
+      "question": "Which operator is used to handle errors in observables in Angular?",
+      "options": [
+        "catchError",
+        "map",
+        "filter",
+        "subscribe"
+      ],
+      "correctAnswer": "catchError"
+    },
+    {
+      "question": "What is Angular's Dependency Injection?",
+      "options": [
+        "A way to resolve dependencies between components",
+        "A design pattern for handling state management",
+        "A mechanism to dynamically load components",
+        "A technique for managing module dependencies"
+      ],
+      "correctAnswer": "A way to resolve dependencies between components"
+    },
+    {
+      "question": "What is the purpose of the Angular FormsModule?",
+      "options": [
+        "To provide HTTP client services",
+        "To manage form controls and validations",
+        "To handle routing navigation",
+        "To create animations"
+      ],
+      "correctAnswer": "To manage form controls and validations"
+    },
+    {
+      "question": "What is the role of the Angular Router?",
+      "options": [
+        "To manage HTTP requests",
+        "To manage form controls and validations",
+        "To handle routing navigation",
+        "To provide access to the current route's parameters"
+      ],
+      "correctAnswer": "To handle routing navigation"
+    },
+    {
+      "question": "What is the Angular HTTPClientModule used for?",
+      "options": [
+        "To provide HTTP client services",
+        "To manage form controls and validations",
+        "To handle routing navigation",
+        "To create animations"
+      ],
+      "correctAnswer": "To provide HTTP client services"
+    },
+    {
+      "question": "What is the Angular TestBed used for?",
+      "options": [
+        "To create a testing module for components",
+        "To manage form controls and validations",
+        "To handle routing navigation",
+        "To provide access to the current route's parameters"
+      ],
+      "correctAnswer": "To create a testing module for components"
+    },
+    {
+      "question": "What is the Angular Renderer2 used for?",
+      "options": [
+        "To create a testing module for components",
+        "To handle DOM manipulation and events",
+        "To provide HTTP client services",
+        "To create animations"
+      ],
+      "correctAnswer": "To handle DOM manipulation and events"
+    },
+    {
+      "question": "What is Angular's ViewChild decorator used for?",
+      "options": [
+        "To inject a child component into a parent component",
+        "To inject a service into a component",
+        "To manage form controls and validations",
+        "To handle routing navigation"
+      ],
+      "correctAnswer": "To inject a child component into a parent component"
+    }
+  ]
+}
